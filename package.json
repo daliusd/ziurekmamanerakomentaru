@@ -9,7 +9,9 @@
     "prettier": "^1.15.2"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "zip -r -FS ../ziurekmamanerakomentaru.zip * -x '*node_modules*' -x tags -x package.json -x package-lock.json"
+
   },
   "author": "Dalius Dobravolskas",
   "license": "MIT"
