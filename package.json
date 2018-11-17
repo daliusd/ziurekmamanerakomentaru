@@ -1,0 +1,16 @@
+{
+  "name": "ziurekmamanerakomentaru",
+  "version": "0.0.1",
+  "description": "Plėtinys Firefox pašalinti komentarus iš delfi ir 15min",
+  "main": "nocomments.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^5.9.0",
+    "prettier": "^1.15.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dalius Dobravolskas",
+  "license": "MIT"
+}
