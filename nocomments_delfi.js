@@ -9,6 +9,11 @@
         for (let wrapper of comment_wrappers) {
             wrapper.remove();
         }
+
+        let appComments = document.querySelectorAll('#appComments');
+        for (let app of appComments) {
+            app.remove();
+        }
     }
 
     removeComments();
