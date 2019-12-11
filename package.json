@@ -1,6 +1,6 @@
 {
   "name": "ziurekmamanerakomentaru",
-  "version": "1.1",
+  "version": "1.1.0",
   "description": "Plėtinys Firefox ir Chrome pašalinti komentarus iš delfi ir 15min",
   "main": "nocomments.js",
   "dependencies": {},
