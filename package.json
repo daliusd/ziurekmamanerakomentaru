@@ -5,7 +5,7 @@
   "main": "nocomments.js",
   "dependencies": {},
   "devDependencies": {
-    "eslint": "^5.9.0",
+    "eslint": "^9.39.1",
     "prettier": "^1.15.2"
   },
   "scripts": {
